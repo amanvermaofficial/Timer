@@ -14,4 +14,4 @@ This project is a simple timer application that calculates and displays the rema
 - CSS
 - JavaScript
 
-You can try out the application [here]([https://your-demo-link.com](https://amanvermaofficial.github.io/Timer/)https://amanvermaofficial.github.io/Timer/).
+You can try out the application [here]([(https://amanvermaofficial.github.io/Timer/)https://amanvermaofficial.github.io/Timer/]).
